@@ -161,7 +161,7 @@ function setCopyright(type) {
     var badgeInfo = '&nbsp;|&nbsp; \n' +
         '<div class="github-badge">\n' +
         '    <a href="https://moe.best/" target="_blank" title="handsome主题由JindaiKirin魔改">\n' +
-        '        <span class="badge-subject">Modified</span><span class="badge-value bg-red">JindaiKirin</span>\n' +
+        '        <span class="badge-subject">Theme Modified By</span><span class="badge-value bg-red">JindaiKirin</span>\n' +
         '    </a>\n' +
         '</div>' +
         '&nbsp;&nbsp; \n';
